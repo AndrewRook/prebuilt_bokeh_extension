@@ -272,7 +272,7 @@ export class Pick extends Glyph {
     super(attrs)
   }
 
-  __module__ = "ptplot.models.pick"
+  __module__ = "package.models.pick"
 
   static init_Pick(): void {
     this.prototype.default_view = PickView
