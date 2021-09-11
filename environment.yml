@@ -1,0 +1,7 @@
+name: bokeh_test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bokeh=2.3.3
+  - python=3.9.7
